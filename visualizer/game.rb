@@ -14,7 +14,7 @@ end
 # And a chess AI visualizer
 
 # Convert all the code to javascript come 2 before March. 
-
+#adfkj
 if __FILE__ == $PROGRAM_NAME
     board = Board.new(35, 35)
     # p board.render
