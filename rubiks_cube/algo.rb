@@ -50,6 +50,7 @@ module RotateAlgorithm
     [start, dest]
   end
 
+# primary face should be f
   def clockwise(primary_face, n = 1)  
     cube_copy = deep_dup_cube(cube)
     # p cube_copy
