@@ -3,8 +3,6 @@ require 'byebug'
 
 class SwarmOptimization
 
-    
-
     def initialize(board, end_point, start_point)
       @board = board
       @end_point = end_point
